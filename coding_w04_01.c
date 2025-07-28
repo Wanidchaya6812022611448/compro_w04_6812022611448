@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
-    printf("Hello World Test1");
+int main() { //keyword
+    printf("Hello, \n");
+    printf("c Token! \n");
     return 0;
 }
